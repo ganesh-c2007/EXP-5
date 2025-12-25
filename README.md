@@ -1,4 +1,4 @@
-![500177924-ffec8d53-bfd8-4996-8789-0e770160ad1e](https://github.com/user-attachments/assets/6c33db36-d806-4fe2-80b6-7fb93ca08201)# EXP-5
+# EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
 AIM
